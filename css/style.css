@@ -21,10 +21,15 @@ h2{
 }
 #main-bio{
     float: left;
+    width: 70%;
 }
 #contact-info{
     float: left;
+    width: 30%;
 }
 #bio-image{
     float: left;
+}
+.link{
+    color: #d21034;
 }
